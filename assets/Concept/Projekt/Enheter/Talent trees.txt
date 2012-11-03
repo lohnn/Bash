@@ -1,0 +1,113 @@
+Har tagit bort eller gjort en "fusion" på vissa talent trees.
+Så det är en hel del förändring.
+
+Kravall Soldat:
+
+Mitten längst upp(0):
+
+2.5% higher hitrating
+and 2.5% lower damage weakness
+
+------
+
+Def(Left):
+
+DI increase(1):
+
+1-5%
+
+Hp increase(2):
+
+2-10
+
+DR increase(3):
+
+2-10 DR against bullets
+
+------
+
+Atk(right):
+
+AT increase(1):
+
+4-20%
+
+HI increase(2):
+
+2-10%
+
+Crit chance(3):
+
+2-10% chance to deal 2x damage
+
+------
+
+Mitten(Längst ner(4))
+
+Increase MS with 5%(80%)
+15% chance to survive an airial attack
+
+------
+------
+------
+
+Combat medic:
+
+Mitten(Längst upp(0))
+
+2.5% ökad chans på alla special abilities
+
+------
+
+Special(Left(1))
+
+Ju mer hp som helas ökar med:
+
+1-5%
+Om: 33-99% hp är kvar
+
+0.5-2.5%
+Om: 1-32% är kvar
+
+
+Special(Left(2))
+
+
+Ökar hur många enheter som blir buffade av adrenalin:
+
+1-5%
+
+Special(Left(3))
+
+Ny ability: varje gång en enhet dör är det en väldigt liten chans att combat medicen kan återuppleva dem med 25% hp kvar.
+0.5-2.5%
+
+-------
+
+Försvar(Right(5))
+
+Ökar maximum hp med 2-10 hp
+
+-------
+
+Försvar(Right(6))
+
+Ökad DI med 1-5%(11-15%)
+
+-------
+
+Försvar(Right(7))
+
+Ökar attack hastighet med 0.2-1(1.2-2)
+
+-------
+
+Längst ner(4)
+Ökad DI med 5%
+Ökad MS med 5%
+Ökad HI med 5%
+
+------
+------
+------
+

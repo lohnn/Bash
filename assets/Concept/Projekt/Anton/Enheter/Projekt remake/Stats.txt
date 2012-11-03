@@ -1,0 +1,62 @@
+Stats:
+
+Strength:
+Every point does:
+Increase physical damage dealt by 1
+Every tenth point does:
+Increase any on-hit effects chance with 1%
+
+Vitality:
+Every point does:
+Increase health by 7.5 points
+Every fifth point does:
+Increase physical damage resistance by 1%
+
+Agility:
+Every point does:
+Increase ranged physical damage by 1
+Increase round attackspeed with 0.04 points
+Every tenth points does:
+Increase physical ability dodge chance by 2%
+
+Will:
+Every point does:
+Increase the mana pool with 1 point
+Every tenth point does:
+Increase on-hit magic effects chance with 4%
+
+Intellect:
+Every point does:
+Increase magic damage with 1
+Every tenth point does:
+Increase mana regen rate by 2 points per round
+
+Armor:
+2% damage reduction
+
+Note:
+The dodge only dodge the physical ability causing the enemy to hit instead with a normal attack.
+
+Almost every hero starts with 100 base health and 100 base mana.
+
+Heroes base damage vary alot and every heroes base attackspeed is 1 attack per round.
+
+Level:
+
+Every time you level up you can add 3 stat points to whatever stats you want.
+
+Require 100 experience to level up to level 2
+
+Every level double the experience required up to level 5
+
+After level 5 it increase with 50% instead of double up to level 10
+
+After level 10 it increase with 25% instead of 50% to level 20.
+
+After level 20 it increase with 10% instead of 25% to level 30.
+
+Every level will always have 1 experience point added, exempel 501 or 3001.
+
+Every heroes base attackspeed is 1 attack per round.
+
+Then the stats are counted on to the base health and mana.

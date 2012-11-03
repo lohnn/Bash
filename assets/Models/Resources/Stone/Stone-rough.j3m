@@ -1,0 +1,9 @@
+Material Stone Rough : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        Shininess : 5.0
+        DiffuseMap : Models/Resources/Stone/Stone-rough.png
+        NormalMap : Models/Resources/Stone/Stone-rough-Norm.png
+     }
+    AdditionalRenderState {
+    }
+}

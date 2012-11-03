@@ -1,0 +1,9 @@
+Material Stone Fine : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Models/Resources/Stone/Stone-finer.png
+        Shininess : 8.0
+        NormalMap : Models/Resources/Stone/Stone-finer-Norm.png
+     }
+    AdditionalRenderState {
+    }
+}

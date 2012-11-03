@@ -1,0 +1,9 @@
+Material Crown big : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Models/Resources/Wood/Crown - big.png
+        Shininess : 54.0
+        AlphaMap : Models/axe/brushed_metal3.jpg
+     }
+    AdditionalRenderState {
+    }
+}

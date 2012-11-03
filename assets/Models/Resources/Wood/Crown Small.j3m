@@ -1,0 +1,9 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Models/Resources/Wood/Crown - small.png
+        Shininess : 54.0
+        AlphaDiscardThreshold : 0.0
+     }
+    AdditionalRenderState {
+    }
+}

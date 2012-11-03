@@ -1,0 +1,222 @@
+Yougach
+The Herbalist doctor:
+
+The herbalist doctor was just a typical student at magic university of Sirath. Being teased for being different he 
+always studied alone gaining more knowledge and deeper understanding for the magic fusion with herbs. 
+After several years of study he became the best doctor that have ever existed, he was praised by everyone
+and his family was proud. But he was still missing something... He reached the goal that he was aiming for
+since he was a meer child but there was still something missing. Yougach set on a journey
+to find out what he was missing and to see if he really was the best herbalist in the world.
+
+Strength: 0
+Vitality: 10
+Agility: 0
+Will: 15
+Intellect: 15
+
+Base damage:
+0
+
+Base health:
+100
+
+Base mana:
+100
+
+Good:
++Good healer
++Synergize well with Ginger
++Are able to tank damage
++Good support
+
+Bad:
+-Low damage overall
+-Low stats
+-Mana dependent
+
+Yougach have 3 base abilities:
+
+Healing syringe:
+Mana cost: 25
+Heal a friendly unit while causing a small amount of damage to enemies.
+Cooldown 3 rounds.
+
+Rank 1/5
+Heal 20% max health and cause 3 damage to all enemies
+
+Rank 2/5
+Heal 22% max health and cause 6 damage to all enemies
+
+Rank 3/5
+Heal 23.5% max health and cause 9 damage to all enemies
+
+Rank 4/5
+Heal 25% max health and cause 12 damage to all enemies
+
+Rank 5/5
+Heal 26.5% max health and cause 15 damage to all enemies
+______________
+Upgrade paths:
+Adrenaline shot
+When healing: Cause the healed unit to get increase agility and strength for a short amount of time.
+However increase the mana cost for the syringe from 25 to 35.
+
+Rank 1/5
+Increase agility by 10% and strength by 5% for 1 round
+
+Rank 2/5
+Increase agility by 15% and strength by 7.5% for 1 round
+
+Rank 3/5
+Increase agility by 20% and strength by 10% for 1 round
+
+Rank 4/5
+Increase agility by 25% and strength by 12.5% for 1 round
+This effect lasts 2 rounds on Ginger.
+
+Rank 5/5
+Increase agility by 30% and strength by 15% for 1 round
+This effect lasts 2 rounds on Ginger and Werewolf.
+
+Closing wounds
+When healing: Cause the healed unit to regen health over time while also have a chance to dodge magical attacks.
+However increase the mana cost for the syringe from 25 to 40.
+
+Rank 1/5
+Regen 1% of maximum health per round for 3 rounds and have a 10% chance to dodge for 1 round
+
+Rank 2/5
+Regen 2% of maximum health per round for 3 rounds and have a 15% chance to dodge for 1 round
+
+Rank 3/5
+Regen 3% of maximum health per round for 3 rounds and have a 20% chance to dodge for 1 round
+
+Rank 4/5
+Regen 4% of maximum health per round for 3 rounds and have a 25% chance to dodge for 1 round
+
+Rank 5/5
+Regen 5% of maximum health per round for 3 rounds and have a 30% chance to dodge for 1 round
+
+Armor acid:
+Mana cost: 30
+Cause all enemies to get a temporary rip in the armor and all allies that attack will be healed a percent of the damage dealt.
+Last 2 rounds.
+Cooldown 4 rounds.
+
+Rank 1/5
+Lower shield damage resistance by 6% and 15% of all damage dealt is returned as health
+
+Rank 2/5
+Lower shield damage resistance by 7% and 17% of all damage dealt is returned as health
+
+Rank 3/5
+Lower shield damage resistance by 8% and 19% of all damage dealt is returned as health
+
+Rank 4/5
+Lower shield damage resistance by 9% and 21% of all damage dealt is returned as health
+
+Rank 5/5
+Lower shield damage resistance by 10% and 23% of all damage dealt is returned as health
+______________
+Upgrade paths:
+Soaking acid
+The acid further penetrates the armor dealing damage over time.
+
+Rank 1/5
+Deal 10 damage over time
+
+Rank 2/5
+Deal 15 damage over time
+
+Rank 3/5
+Deal 20 damage over time
+
+Rank 4/5
+Deal 25 damage over time
+
+Rank 5/5
+Deal 30 damage over time
+
+Mass effect
+Cause armor acid to multiple enemies that lasts longer depending on thier current health.
+Because of the occasional spread it costs more mana, from 30 to 35.
+
+Rank 1/5
+Cause armor acid to one additional target and last 1 round longer if the enemy have 100% health
+
+Rank 2/5
+Cause armor acid to one additional target and lasts 1 round longer if the enemy have 95% health and above
+
+Rank 3/5
+Cause armor acid to two additional targets and lasts 1 round longer of the enemy have 90% health and above
+
+Rank 4/5
+Cause armor acid to two additional targets and lasts 1 round longer if the enemy have 85% health and above
+
+Rank 5/5
+Cause armor acid to three additional targets and lasts 1 round longer if the enemy have 80% health and above
+
+Magic shield:
+Mana cost: 35
+Cause a temporary shield that have a different effects depending on what target you throw it on.
+When cast on an ally they gain temporary damage resistance and all enemies are forced to attack that ally.
+When cast on the doctor himself he is shielded for a great amount of damage.
+Lasts for 3 rounds on the doctor.
+Cooldown: 5 rounds.
+
+Rank 1/5
+Ally: 20% damage resistance and lasts for 1 round
+Self: Shield damage compared with 200% of all Doctors stats combined 
+
+Rank 2/5
+Ally: 22.5% damage resistance and lasts for 1 round
+Self: Shield damage compared with 210% of all Doctors stats combined
+
+Rank 3/5
+Ally: 25% damage resistance and lasts for 1 round(Lasts 2 rounds for bosses)
+Self: Shield damage compared with 225% of all Doctors stats combined
+
+Rank 4/5
+Ally: 27.5% damage resistance and lasts for 1 round(Lasts 2 rounds for bosses)
+Self: Shield damage compared with 235% of all Doctors stats combined
+
+Rank 5/5
+Ally: 30% damage resistance and lasts for 1 round(Lasts 2 rounds for bosses)
+Self: Shield damage compared with 250% of all Doctors stats combined
+______________
+Upgrade paths:
+Ally shield
+Increase the effectiveness on allies, in addition grants a small healing.
+
+Rank 1/5
+Increase damage resistance with 33% and the ally is healed 5% of maximum health
+
+Rank 2/5
+Increase damage resistance with 36% and the ally is healed 7% of maximum health
+
+Rank 3/5
+Increase damage resistance with 38% and the ally is healed 9% of maximum health
+
+Rank 4/5
+Increase damage resistance with 40% and the ally is healed 10% of maximum health
+
+Rank 5/5
+Increase damage resistance with 42% and the ally is healed 12% of maximum health
+
+Selfish shield
+When the shield is thrown on the doctor he is healed a certain amount of health and regenerate more mana.
+
+Rank 1/5
+Healed 30 health and regenerate 100% more mana
+
+Rank 2/5
+Healed 40 health and regenerate 125% more mana
+
+Rank 3/5
+Healed 50 health and regenerate 145% more mana
+
+Rank 4/5
+Healed 60 health and regenerate 170% more mana
+
+Rank 5/5
+Healed 75 health and regenerate 200% more mana

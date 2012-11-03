@@ -1,0 +1,261 @@
+Huvud karaktär: Yougach
+
+Man får veta Yougach bakgrunds historia:
+
+"I was not just a typical student at the magic university of Sirath. Even though I was teased for being different 
+it didn't stop me from gaining more knowledge, and deeper understanding for the magic fusion with herbs.
+ 
+After several years of study I became the best doctor that have ever existed, I was praised by everyone
+and my family was proud. It felt like I had reached the apex in life.
+
+But I can't stop this feeling... this feeling that I am still missing something...
+Even though I reached my goal and made everyone I cared about happy there was something missing...
+
+I set on a journey, to find the missing piece. To be fulfilled."
+
+Yougach sets on a journey to find out what he was missing and to see if he really was the best herbalist in the world.
+
+Yougach går till en bar vid ett berg och träffar på Gerch.
+
+Gerch slåss mot ett fyllo, första fighten inleds och man får lära sig spel-grunderna.
+
+Konversation:
+Gerch:
+"I will tear apart, stupid piece of shit"
+
+Drunk:
+"No, you!"
+
+Gerch:
+"Is that all? You shit"
+
+Drunk:
+"No, *hick* you are a ballerina not me"
+
+Gerch:
+"Hehe its time for me to invite to friend. His name is mister axe"
+
+Gerch vinner slagsmålet oavsett.
+
+Gerch:
+"YEAH HAHA im the strongest... oh... he died"
+
+Bar owner:
+"Thats it get out! I don't want any more customers killed!"
+
+Gerch blir utslängd.
+
+Yougach går ut och har en konversation med Gerch.
+
+Yougach:
+"You seem wounded let me patch you up"
+
+Gerch:
+"NO! Wounds are strength, blood is the path of life"
+
+Yougach:
+"I know you are violent by nature but you need to patch up"
+*Insert syringe*
+
+Gerch:
+"WHAT YOU DOING? IM GONN... oh wait that feels good"
+"My name is Gerch, name?"
+
+Yougach:
+"Master degree Herbalist Youg..."
+
+Gerch:
+"I ask for name not history dumbass"
+
+Yougach:
+"Yougach... just Yougach"
+
+Gerch:
+"No last name?"
+
+Yougach:
+"I guess this game don't have any last names for us yet"
+
+Gerch:
+"What game? You play dice?"
+
+Yougach:
+"Nevermind"
+
+Gerch:
+"Whats your goal in life?"
+
+Yougach:
+"To find a missing piece in my life... you?"
+
+Gerch:
+"I am going to become the strongest warrior the land have ever seen, you can come with me"
+
+Yougach:
+"I would gladly, I think you will need me"
+
+Gerch:
+"I dont need anyone! ...but I need company"
+"This Axe cannot talk you know"
+
+Yougach:
+"I guess, but its always good to have a herbalist Gerch"
+
+Gerch:
+"I dont believe in tales of fairys. In fight herbalist can only throw bag on enemies. Not effective"
+
+Yougach:
+"I guess you have a point"
+
+Gerch:
+"Enough talking! Lets kill monsters!"
+
+Man reser direkt till Anchor city.
+
+I huvudstaden får man instruktioner om affärer, hur man rustar upp sina hjältar och hur man kan flyga till andra ställen.
+
+Man får även tips att om man trycker på vissa karaktärer kan man snacka med dem.
+
+Yougach kommer alltid vara den man får följa. Det vill säga att när man snackar med folk kommer det alltid vara han som snackar åt dig.
+
+I staden kan du snacka med:
+Affärs biträde(shop)
+Count Jonas(New member)
+Gerch(backstory encounter)
+Gnerg flyg specialist(fast travel service)
+
+Man måste snacka med(innan man går vidare):
+Affärs biträde(shop)
+
+Dialog:
+Yougach:
+"Hey I need to stock up."
+
+Trader:
+"Go ahead and welcome."
+
+När du lämnar:
+
+Yougach:
+"I think im done. Good bye."
+
+Trader:
+"Good bye and thank you for visiting."
+-----------------------------------------------------
+Count Jonas(New member)
+
+Crowd:
+"Jonas, Jonas talk to me!!!"
+"I love you Jonas!"
+"Touch my genitalia Jonas!"
+
+Jonas:
+"For god's sake just leave thy alone!"
+"Thee! Yes yee over there! Get them off thy!"
+
+Yougach:
+"Me?"
+
+Jonas:
+"YES! DO WHATEVER!"
+
+Yougach call on Gerch:
+
+Yougach:
+"Can you shatter the crowd please?"
+
+Gerch:
+"I going to kill you all RRRAAAAAAHHHHHHH!"
+
+Crowd:
+"RUN!"
+"He will kill us all!"
+"Don't touch my genitalia!"
+
+Jonas:
+"Thank you Herb and Red"
+
+Gerch:
+"I have name! GERCH! Use it!"
+
+Jonas:
+"How do you think I can "use" thee name when I don't know thee?"
+
+Gerch:
+"How you think I care if you die here, now!"
+
+Yougach steps in and stops Gerch.
+
+Yougach:
+"Sorry for my friend. He is a real hot head"
+
+Jonas:
+"Do not worry. I am not afraid of thee Red"
+
+Gerch:
+"Give 2 seconds and you will have Axe up THEE ass!"
+
+Jonas:
+"HAHA! What a character!"
+
+Yougach:
+"Yes ain't he, I have a though question. I have heard alot about you and
+I just wonder..."
+
+Jonas:
+"Sure I can give thee thy autograph"
+
+Yougach:
+"No not that. I wonder if you can give us any adventure tips. Me and Gerch
+is on a "journey" and we need all the advice we can get." 
+
+Jonas:
+"Hmm... Thy see a powerful herbalist and a powerful warrior infront of thy. Thy wonder if ti's journey
+will save thee world. Thy will come with thee. Thou'rt my choice"
+
+Yougach:
+"Ehm okay. Not what we asked for but... great!"
+Lets start right away!"
+
+Gerch:
+"Welcome to world of pain"
+
+Jonas:
+"Thank thee"
+
+Ett fönster dyker upp:
+Aquired a new member!
+Count Jonas, a veteran fighter with a powerful ranged arsenal!
+-----------------------------------------------------
+Gnerg fly specialist(fast travel service)
+
+Gnerg:
+"Hello there valuable customer! It looks like you got no fly certificate for this checkpoint!"
+
+Yougach:
+"But can't you just let us fly without it?"
+
+Gnerg:
+"Sorry pal. It would be too easy for you progress on your journey! See it as a design choice!"
+
+Yougach:
+"A design choice... really?"
+
+Gnerg:
+"Yes, but you have atleast activated this point. Which means that you can travel here when you find another!"
+
+Yougach:
+"Great..."
+
+Om man försöker resa vidare står det: "I don't think im done here...".
+
+Nästa område:
+Magic Academy
+
+Man slåss mot monster påväg dit.
+Inga speciella monster.
+
+Magic academy:
+
+
+

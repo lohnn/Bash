@@ -1,0 +1,1 @@
+_spriteBatch.Draw(texture, location, Color.White * 0.5f);

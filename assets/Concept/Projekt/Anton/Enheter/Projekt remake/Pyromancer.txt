@@ -1,0 +1,81 @@
+Léon
+Pyromancer
+
+Fire shield:
+Manacost: 35
+Create a fire shield either on himself or an ally.
+Increasing armor and cause physical attacking enemies damage over time.
+Cooldown: 3
+
+Rank 1/5
+Increase armor by 2 and cause 6 fire damage over 2 rounds
+Last 2 rounds.
+
+Rank 2/5
+Increase armor by 3 and cause 8 fire damage over 2 rounds
+Last 2 rounds.
+
+Rank 3/5
+Increase armor by 4 and cause 10 fire damage over 2 rounds
+Last 2 rounds.
+
+Rank 4/5
+Increase armor by 5 and cause 12 fire damage over 2 rounds
+Last 2 rounds.
+
+Rank 5/5
+Increase armor by 6 and cause 14 fire damage over 2 rounds
+Last 2 rounds.
+
+Fire breath:
+Manacost: 45
+Spew out a large flame, dealing a large amount of direct damage and cause damage over time.
+The burn over time stacks with fire shield.
+Cooldown: 4
+
+Rank 1/5
+Burn one enemy with 20 direct damage and cause 10 extra damage over 2 rounds.
+
+Rank 2/5
+Burn one enemy with 25 direct damage and cause 20 extra damage over 2 rounds
+
+Rank 3/5
+Burn one enemy with 30 direct damage and cause 30 extra damage over 2 rounds
+
+Rank 4/5
+Burn one enemy with 36 direct damage and cause 36 extra damage over 2 rounds
+
+Rank 5/5
+Burn one enemy with 42 direct damage and cause 42 extra damage over 2 rounds
+
+Rebirth:
+Mana cost: 30
+Stun all enemies and Pyromancer himself to start a rebirth. Pyromancer regenerate
+health per round and bonus mana per round. If he is left untouched for 2 rounds he will
+regenerate an enourmous amount of health and mana.
+Cooldown: 4
+
+Rank 1/5
+Stun all enemies and Pyromancer for 1 round.
+Pyromancer regenerate 6% maximum health and 5 extra mana for the first round.
+Pyromancer regenerate 12% maximum health and 10 extra mana for the second round.
+
+Rank 2/5
+Stun all enemies and Pyromancer for 1 round.
+Pyromancer regenerate 7% maximum health and 6 extra mana for the first round.
+Pyromancer regenerate 14% maximum health and 12 extra mana for the second round.
+
+Rank 3/5
+Stun all enemies and Pyromancer for 1 round.
+Pyromancer regenerate 8% maximum health and 7 extra mana for the first round.
+Pyromancer regenerate 16% maximum health and 14 extra mana for the second round.
+
+Rank 4/5
+Stun all enemies and Pyromancer for 1 round.
+Pyromancer regenerate 9% maximum health and 8 extra mana for the first round.
+Pyromancer regenerate 18% maximum health and 16 extra mana for the second round.
+
+Rank 5/5
+Stun all enemies and Pyromancer for 1 round.
+Pyromancer regenerate 10% maximum health and 10 extra mana for the first round.
+Pyromancer regenerate 20% maximum health and 20 extra mana for the second round.
