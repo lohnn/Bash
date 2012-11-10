@@ -14,9 +14,9 @@ Stats:
 
 Strength: 10
 Vitality: 10
-Agility: 10
-Will: 10
-Intellect: 10
+Agility: 15
+Will: 0
+Intellect: 15
 
 Base damage:
 10
@@ -25,5 +25,16 @@ Base health:
 100
 
 Base mana:
-0
+100
+
+Teleport strike:
+
+Jakira uses her various devices to teleport behind the enemy and strike them.
+Jakira deal 2x her agility plus 4x her level in damage. Jakira can not be attacked
+or targeted by anything when she is preparing to strike next round.
+
+Casting time: 2 rounds
+Cooldown: 4 rounds
+_____________________________________________________________________________________
+
 
