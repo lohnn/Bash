@@ -1,0 +1,29 @@
+Jakira
+The Mechanist
+
+Good:
++ Strong disabler
++ Good melee fighter
++ Strong against physical damage
+
+Bad:
+- Weak versus magical damage
+- Weak versus armored units
+
+Stats:
+
+Strength: 10
+Vitality: 10
+Agility: 10
+Will: 10
+Intellect: 10
+
+Base damage:
+10
+
+Base health:
+100
+
+Base mana:
+0
+

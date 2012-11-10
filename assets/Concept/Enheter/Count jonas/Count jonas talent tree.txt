@@ -1,0 +1,220 @@
+        Damage:           -  
+                          - 
+Left/Right:		  -		 
+                          -
+Talent slot both sides(2) -
+                 	  -
+Mid:                      -
+			  -
+Talent slot middle(1)     -
+_________________________ -
+
+Whenever there are talents on both sides
+only one talent can be chosen.
+
+Coloumn 1================================================
+
+Aim(Left)
+
+Increase the chance to crit from 15% to 20%
+Increase the chance to regenerate from 5% to 7.5%
+
+Explosive measures(Right)
+
+Further tinkering and modification with the gun
+increase the effectivness with the ability 'Killing shot'
+
+Increase damage from 40 to 50
+Increase splash chance from 30% to 36%
+=========================================================
+
+Coloumn 2================================================
+
+Swiftness(Left)
+
+[Passive]
+Permanently increase Jonas agility with 5 points
+
+In addition gain 5% more bonus agility from armor
+(counts the total bonus agility gained from armor)
+
+Guard(Right)
+
+[Passive]
+Jonas learns how to defend himself and make him reduce
+5% of all incoming damage.
+
+In addition gains a 5% chance to dodge an attack whenever 
+a killing blow is made by Jonas.
+This effect last 2 rounds
+=========================================================
+
+Coloumn 3================================================
+
+Open for business(Left)
+
+Increase the chance to regenerate with 2.5%
+In addition any healing recieved will be 15% more 
+effective(this effect the regeneration)
+
+Locked and loaded(Right)
+
+The explosives have been recieving a larger
+blast radius making it easier to hit other enemies
+
+Increased chance to deal splash damage with 10%
+Now deal splash damage to two enemies instead of
+just one
+=========================================================
+
+Coloumn 4================================================
+
+Improved aim(Left)
+
+Increase the chance to crit with 5%
+Increase crit damage from 1.5x to 1.75x
+
+Degreaser(Right)
+
+Any ability that is cast will have a chance
+to gain a degreaser bonus
+
+The degreaser bonus have 15% chance to trigger
+Will be lost after an ability is activated
+
+Head surgery:
+
+Criting and regeneration will no longer trigger a cooldown
+
+Killing shot:
+
+Will be fired during the first round removing any casting
+time
+
+In addition also reduce cooldown from 4 to 2 rounds
+
+Shatter shot:
+
+Will be fired during the first round removing any casting 
+time
+
+In addition increase the duration that the enemies will 
+recieve extra damage from 2 to 4 rounds
+
+=========================================================
+
+Coloumn 5================================================
+
+Captain(Mid)
+
+Increase all stats with 5
+
+=========================================================
+
+Coloumn 6================================================
+
+Scoped(Left)
+
+Visual change:
+Added a scope to the rifle
+
+Increased crit chance with 5%
+Increased crit damage with 0.25x
+
+Line them up(Right)
+
+Visual change:
+A larger shotgun-like muzzle replace
+the old muzzle
+
+Shatter shot debuff will now last one additional round
+Firing killing shot on a "shattered" enemy will cause
+33% more damage
+
+Increase degreaser chance with 5%
+If the talent slot 'Degreaser' is not taken
+the ability will be added with a 7.5% chance to trigger
+
+=========================================================
+
+Coloumn 7================================================
+
+Wound(Left)
+New ability(replace Killing shot):
+
+Jonas aim for the vital parts of the body causing 
+bleeding and increase damage the effected enemy
+recieve with 10%(does not increase the bleed damage)
+
+The enemy bleed 1x of Jonas agility over 2 rounds 
+Last: 2 rounds
+Cooldown: 4 rounds
+
+Bullet-to-face(Right)
+
+Jonas reform the bullet making them blunted which
+reduce how deep the bullets go causing the explosion 
+to deal splash damage more easily. Jonas also increase
+the lethality of the explosion making up for any 
+damage that is lost in the process
+
+Increase splash chance with 25%
+Increase splash damage from 0.75x agility to 1.0x agility
+
+=========================================================
+
+Coloumn 8================================================
+
+Swiftness 2(Left)
+
+[Passive]
+Increase round attackspeed with 15%
+Permanently increase Jonas agility with 5 points
+
+Guard 2(Right)
+
+[Passive]
+
+Gain a 10% chance to dodge any physical attack
+Whenever killing shot is casted the 25% of all splash damage
+is returned as health
+
+=========================================================
+
+Coloumn 9================================================
+
+Bolted(Left)
+
+Visual change:
+Changed the weapon to use a different bolt
+
+Increased round attackspeed with 15%
+Increase agility with 5 points
+
+Stocked(Right)
+
+Visual change:
+Replace the weapon stock with a different stock
+
+Whenever you cast killing shot there is a 33% chance that you will
+instantly make a basic attack right after during the same round
+
+=========================================================
+
+Coloumn 10===============================================
+
+Veteran(Mid)
+
+Increase all stats with 5
+Increase round attackspeed with 7.5%
+
+=========================================================
+
+Coloumn 11===============================================
+
+
+
+=========================================================
+
+
+

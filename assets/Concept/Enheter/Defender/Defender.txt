@@ -1,0 +1,222 @@
+Utseende:
+Rüben har en väldigt simpel men lite avikande utseende som gör han lite vanlig. Rüben har mörkt hår och bruna ögon
+med ett lite magert ansikte. Rüben ser väldigt bestämd ut och hans rustning gör denna profil mycket starkare.
+Rustningen ser väldigt mycket ut som de vanliga soldaterna i landet. Rustningen har en stål glans med, väldigt breda axlar.
+Rustning har spetsig fot, spetsiga knä och spetsiga armbågar som ska göra det lättare för soldaterna att döda sin motståndare.
+Rüben har dock ingen hjälm och hans högra arm är helt oskyddad. Resten av skyddet är dock intakt och hans lands symbol bortskrapad.
+För att kompensera höger armen har han lindat den i läder enda ifrån axeln till handen. Lädret är till för att skydda lite bättre än skin och
+för att få bättre grep om vapen. Rustningen på höger armen gör det lättare för Rüben att svinga sitt vapen.
+
+Rüben
+Defender
+
+Joining the royal army was good they all said. After years of battle training all you really do is standing next to a door.
+Rüben however was not that kind of man. He was the best in training. Could take the strongest blows and still stand, use
+magic like no other to boost his fellow spirits. However strength is never foolproof and Rüben was caught in the same trap as
+everyone else. After serving 3 years as a door guard he had enough. He took up his sword and shield, looked for the 
+most sought after villian and took off. To prove that once and for all, that not all men were meant for guard duty. 
+
+Sexual interest:
+Straight
+
+Good:
++ Best support in the game
++ Have very powerful auras
++ Very strong tank
+
+Bad:
+- No spells
+- Teammate dependent
+- Have a hard time dealing damage
+
+Stats:
+
+Strength: 10
+Vitality: 20
+Agility: 20
+Will: 0
+Intellect: 0
+
+Base damage:
+5
+
+Base health:
+110
+
+Base mana:
+0
+
+Offence:
+Create an infinite lasting aura that increase damage and attack speed
+Only one aura can be active at a time.
+Cooldown: 2 rounds
+
+Rank 1/5
+Increases damage by 2 and attack speed by 5% 
+
+Rank 2/5
+Increases damage by 4 and attack speed by 10%
+
+Rank 3/5
+Increases damage by 6 and attack speed by 15%
+
+Rank 4/5
+Increases damage by 8 and attack speed by 20%
+
+Rank 5/5
+Increases damage by 10 and attack speed by 25%
+______________
+Upgrade paths:
+Magic damage:
+Now Offence also increase magic damage.
+
+Rank 1/5
+Increase all magic damage with 6 damage
+
+Rank 2/5
+Increase all magic damage with 8 damage
+
+Rank 3/5
+Increase all magic damage with 10 damage
+
+Rank 4/5
+Increase all magic damage with 12 damage
+
+Rank 5/5
+Increase all magic damage with 15 damage
+
+Crit chance:
+Give all allies a chance to crit on any magical or physical attack they perform.
+
+Rank 1/5
+5% chance to crit 1.25x damage/healing on any spell or attack
+
+Rank 2/5
+6.5% chance to crit 1.25x damage/healing on any spell or attack
+
+Rank 3/5
+8% chance to crit 1.25x damage/healing on any spell or attack
+
+Rank 4/5
+10% chance to crit 1.25x damage/healing on any spell or attack
+
+Rank 5/5
+12.5% chance to crit 1.25x damage/healing on any spell or attack
+
+Defence 
+Create an infinite lasting aura that increase mana regeneration and grant health regeneration
+Only one aura can be active at a time.
+Cooldown: 2 rounds
+
+Rank 1/5
+Increases mana regeneration by 10% and grants 5 health per round
+
+Rank 2/5
+Increases mana regeneration by 20% and grants 7 health per round
+
+Rank 3/5
+Increases mana regeneration by 30% and grants 10 health per round
+
+Rank 4/5
+Increases mana regeneration by 40% and grants 14 health per round
+
+Rank 5/5
+Increases mana regeneration by 50% and grants 18 health per round
+______________
+Upgrade paths:
+Recycling
+All allies have a chance that when they cast a spell they have a chance to regain that mana.
+
+Rank 1/5
+15% chance for the next spell thrown to cost 0 mana.
+
+Rank 2/5
+20% chance for the next spell thrown to cost 0 mana.
+
+Rank 3/5
+25% chance for the next spell thrown to cost 0 mana.
+
+Rank 4/5
+30% chance for the next spell thrown to cost 0 mana.
+
+Rank 5/5
+35% chance for the next spell thrown to cost 0 mana.
+
+Healing trade:
+Give every hero a chance to be healed on the next spell equal to the mana cost.
+
+Rank 1/5
+25% chance for a spell thrown to heal the ally equal to the mana cost.
+
+Rank 2/5
+35% chance for a spell thrown to heal the ally equal to the mana cost.
+
+Rank 3/5
+40% chance for a spell thrown to heal the ally equal to the mana cost.
+
+Rank 4/5
+45% chance for a spell thrown to heal the ally equal to the mana cost.
+
+Rank 5/5
+50% chance for a spell thrown to heal the ally equal to the mana cost.
+
+Mastery
+Passive: Increase Defenders strength, vitality and armor
+
+Rank 1/5
+Increases your strength by 5, vitality by 5 and armor by 2
+
+Rank 2/5
+Increases your strength by 7, vitality by 8 and armor by 4
+
+Rank 3/5
+Increases your strength by 10, vitality by 11 and armor by 6
+
+Rank 4/5
+Increases your strength by 14, vitality by 14 and armor by 8
+
+Rank 5/5
+Increases your strength by 19, vitality by 17 and armor by 10
+______________
+Upgrade paths:
+Healing hand
+Grant Rüben passive health regeneration.
+
+Rank 1/5
+Rüben regenerate 4 health per round
+
+Rank 2/5
+Rüben regenerate 8 health per round
+
+Rank 3/5
+Rüben regenerate 12 health per round
+
+Rank 4/5
+Rüben regenerate 16 health per round
+
+Rank 5/5
+Rüben regenerate 20 health per round
+
+Magic resistance:
+Grant Rüben a passive resistance against spells, causing them to deal less damage.
+In addition when ever Rüben lose a certain amount of health all debuffs will be removed.
+
+Rank 1/5
+All spells cause 10% less damage to Rüben.
+In addition when Rüben lose 400 health all debuffs gets removed.
+
+Rank 2/5
+All spells cause 13% less damage to Rüben.
+In addition when Rüben lose 375 health all debuffs gets removed.
+
+Rank 3/5
+All spells cause 16% less damage to Rüben.
+In addition when Rüben lose 350 health all debuffs gets removed.
+
+Rank 4/5
+All spells cause 19% less damage to Rüben.
+In addition when Rüben lose 325 health all debuffs gets removed.
+
+Rank 5/5
+All spells cause 24% less damage to Rüben.
+In addition when Rüben lose 300 health all debuffs gets removed.

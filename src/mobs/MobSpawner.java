@@ -10,7 +10,7 @@ public class MobSpawner
 {
     private Vector3f pos;
     private Float radius;
-    private MobType type;
+    private Unit type;
 
     public MobSpawner()
     {
@@ -20,9 +20,9 @@ public class MobSpawner
      * MobSpawner with all variables set
      * @param position Position of spawner
      * @param radius Radius of spawner
-     * @param type MobType
+     * @param type Unit
      */
-    public MobSpawner(Vector3f position, Float radius, MobType type)
+    public MobSpawner(Vector3f position, Float radius, Unit type)
     {
         pos = position;
         this.radius = radius;
@@ -64,7 +64,7 @@ public class MobSpawner
     /**
      * @return the type
      */
-    public MobType getType()
+    public Unit getType()
     {
         return type;
     }
@@ -72,7 +72,7 @@ public class MobSpawner
     /**
      * @param type the type to set
      */
-    public void setType(MobType type)
+    public void setType(Unit type)
     {
         this.type = type;
     }

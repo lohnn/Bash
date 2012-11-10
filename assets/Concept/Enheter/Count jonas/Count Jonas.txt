@@ -1,0 +1,90 @@
+Utseende:
+Jonas ser lite gammal ut men ändå väldigt fräsch för sin ålder. Han rör sig på ett väldigt ståtligt sätt
+och det märks att han är en adelsman. Jonas har blont-grått hår med ett väldigt avslappnat utseende.
+Hans utstyrsel är en blandning mellan jakt och adels kläder. Han har en vit skjorta
+med en jakt inspirerad frak på sig. På ryggen har han en mantel med axel skydd. Skydden är väldigt jakt inspirerade med brunn läder
+och gröna fransar. Manteln i sig är svart med ull tyg. Hans vapen är ett luft gevär som har ett väldigt steampunk aktigt tema över sig. 
+Hans gevär är väldigt inspirerat av 1800-talets vapen blandat med avancerat kol maskineri. 
+Hans byxor är väldigt fina bomulls byxor som har fått lera nere vid vristerna. Hans skor är cowboy inspirerade boots med en finare 
+klack på skon som ska avbilda hans adelsman roll. 
+
+Count Jonas
+The Shooter
+
+Having a career as a shooter with the eye of an eagle and wealth of a king, Count Jonas never had
+any problems that he couldn't take care of. He managed to get married with the most beautiful
+princess, get the strongest kids and not even have to work for it. At the peak of his fame he was starting
+to get old. After his wife died he started to feel his energy flow ones again. No more need
+to stay home, no one to look after. He set on the final adventure of his life, with hopes
+that he could accomplish something that he haven't done before and that he would be remembered as a
+hero and not a count.
+
+Stats:
+
+Strength: 10
+Vitality: 0
+Agility: 20
+Will: 10
+Intellect: 10
+
+Base damage:
+15
+
+Base health:
+80
+
+Armor:
+Medium
+
+Good:
++Very high burst damage
++Strong versus armored units
++Strong versus bosses
+
+Bad:
+-Long cooldown
+-Low health
+-Abilities have casting time
+-Vulnerable to stun
+
+The Shooter have 3 base abilities:
+
+Head surgery:
+Jonas specialze in his normal attack having a chance to crit,
+In addition also a chance to regenerate a percent of his total health.
+Cooldown: 1 round.
+
+15% chance to crit 1.5x damage
+5% chance to regenerate 10% of maximum health
+______________________________________________________________________
+Killing shot:
+Loads and aims a high explosive sniper round that deal massive damage and ignores armor.
+In addition have a chance to deal splash damage equal to 75% of Jonas agility.
+Cast time: 2 rounds
+Cooldown: 4 rounds.
+
+40 damage with a 33% chance to deal 0.75x Jonas agility in damage and
+deal damage to one nearby enemy
+______________________________________________________________________
+Scatter shot:
+Loads a scatter bullet that shatters when its fired causing it to damage several enemies. 
+However it deals less damage than a normal bullet. The shattering bullet will also increase the
+damage the enemies will recieve for 2 rounds. It takes 2 rounds to load and fire the scatter shot.
+Cooldown: 4 rounds.
+
+Deal 50% of your normal damage to three enemies
+Increase damage recieved with 10%
+______________________________________________________________________
+Culling shot(Unlocked at level 5):
+Load a magic imbued bullet that will instantly kill an enemy if he is under
+a certain health threshold. This bullet goes through magic immunity, damage resistance,
+dodge and are unable to be reflected. If the enemy is under 15%(10% on bosses)
+of thier total health they will be instantly killed. If the killing shot fail
+it will only deal damage equal to 5%(3% on bosses) of thier total health.
+Killed targets can not be resurrected.
+Cast time: 2 rounds
+Cooldown: 6 rounds
+______________________________________________________________________
+Upgrade paths:
+
+Damage and Support

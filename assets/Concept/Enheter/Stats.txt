@@ -1,0 +1,57 @@
+Stats:
+
+Strength:
+Every point does:
+Increase physical damage dealt by 1
+Every tenth point does:
+Increase any on-hit effects chance with 1%
+
+Vitality:
+Every point does:
+Increase health by 7,5 points
+Every tenth point does:
+Increase physical damage resistance by 2.5%
+
+Agility:
+Every point does:
+Increase ranged physical damage by 1
+Increase round attackspeed with 0,04 points
+Every tenth points does:
+Increase physical ability dodge chance by 1%
+
+Will:
+Every point does:
+Increase the mana pool with 1,5 point
+Every tenth point does:
+Increase mana regen rate by 2 points per round
+
+Intellect:
+Every point does:
+Increase magic damage with 1
+Every tenth point does:
+Increase on-hit magic effects chance with 2%
+
+Armor:
+Every point does:
+Increase damage reduction with 0,5%
+
+Armor type:
+Light armor:
+Made for mages primarly
+Have a higher will and intellect bonus
+
+Medium armor:
+Made for medium sized classes primarly(that dont fit mage or tank)
+Have have higher agility bonus and might even slightly increase attackspeed 15%
+
+Heavy armor:
+Made for tanks primarly
+Have a higher strength and vitality bonus
+
+Trinkets:
+Trinkets are an item that are used instead of weapons(to reduce weapon creation and modelling).
+Trinkets can increase any sort of stat and might not only suit one class but several classes.
+
+Note:
+Heroes base damage vary alot and every heroes base attackspeed is 1 APR(Attack per round).
+Heroes can never go bellow 1 APR

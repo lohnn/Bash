@@ -6,11 +6,12 @@ import com.jme3.scene.Spatial;
  *
  * @author lohnn
  */
-public class MobType
+//TODO: see what I can do to make this an interface? or implement one?
+public class Unit
 {
     private Spatial geometry;
 
-    public MobType(Spatial geo)
+    public Unit(Spatial geo)
     {
         geometry = geo;
     }

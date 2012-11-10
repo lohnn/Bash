@@ -27,7 +27,7 @@ import custom.camera.EditorCam;
 import globals.Triggers;
 import java.util.ArrayList;
 import mobs.MobSpawner;
-import mobs.MobType;
+import mobs.Unit;
 
 /**
  * Main
@@ -46,7 +46,7 @@ public class Editor extends SimpleApplication implements ActionListener
     Vector3f spawnPoint;
     Quaternion spawnRotation;
     Geometry pointer;
-    ArrayList<MobType> mobTypes = new ArrayList<MobType>();
+    ArrayList<Unit> mobTypes = new ArrayList<Unit>();
     Spatial currentCursor;
 
     @Override
@@ -136,7 +136,7 @@ public class Editor extends SimpleApplication implements ActionListener
 
     private void initModels()
     {
-        mobTypes.add(0, new MobType(assetManager.loadModel("Blender Models/Monsters/Drop/Drop.j3o")));
+        mobTypes.add(0, new Unit(assetManager.loadModel("Blender Models/Monsters/Drop/Drop.j3o")));
 //        mobTypes.add(0, assetManager.loadModel("Blender Models/Monsters/Drop/Drop.j3o"));
     }
 
