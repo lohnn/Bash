@@ -1,4 +1,4 @@
-package mobs;
+package units;
 
 import com.jme3.math.Vector3f;
 

@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package mobs.mobtypes;
+package units.mobtypes;
 
 import com.jme3.scene.Spatial;
 
@@ -10,7 +10,7 @@ import com.jme3.scene.Spatial;
  *
  * @author lohnn
  */
-public class Dwarf_1 implements mobs.UnitInterface {
+public class Dwarf_1 implements units.UnitInterface {
 
     public Spatial getGeometry() {
 	throw new UnsupportedOperationException("Not supported yet.");
