@@ -101,6 +101,10 @@ time
 In addition increase the duration that the enemies will 
 recieve extra damage from 2 to 4 rounds
 
+Culling shot:
+
+Reduce cooldown from 6 rounds to 4 rounds
+
 =========================================================
 
 Coloumn 5================================================
@@ -196,7 +200,7 @@ Stocked(Right)
 Visual change:
 Replace the weapon stock with a different stock
 
-Whenever you cast killing shot there is a 33% chance that you will
+Whenever you cast killing shot there is a 50% chance that you will
 instantly make a basic attack right after during the same round
 
 =========================================================
@@ -206,7 +210,7 @@ Coloumn 10===============================================
 Veteran(Mid)
 
 Increase all stats with 5
-Increase round attackspeed with 7.5%
+Increase round attackspeed with 5%
 
 =========================================================
 

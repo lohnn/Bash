@@ -1,0 +1,58 @@
+Jargoth
+The life drainer
+
+Stats:
+
+Strength: 0 
+Vitality: 20
+Agility: 30
+Will: 0
+Intellect: 0
+
+Silence:
+
+Infuse Jargoths normal attacks that kills all nearby mana-nites, blocking all use
+of spells for 1 round. Silence can only trigger once every 2 rounds. 
+In addition deal bonus damage equal to 15% of the enemies maximum mana.
+
+Silence an enemy for 1 round
+Silence cooldown: 2 rounds
+
+Deal normal damage + bonus damage equal to 15% of the enemies maximum mana
+Damage cooldown: none
+___________________________________________________________________________
+
+Magic rage:
+
+Jargoths natural ability to take up mana-nites in the air, makes him able to collect a 
+small portion whenever a spell is cast against his team. Whenever Jargoth collect a chunk
+of mana-nites, he grows more powerful and gain a varied amount of buffs.
+
+For every stack:
+10% extra damage(physical and magical), 10% faster round attackspeed and 10% magic resistance
+Stacks up to 5 times
+___________________________________________________________________________
+
+Decimate:
+
+Jargoth summon a bolt of mana-nite killing energy and fire at a target enemy.
+The bolt burn 50 mana and deals 25 damage, in addition any spell casting 
+enemy will be interrupted(if a spell have casting time). As a downside it
+does not benefit from Magic rage bonus damage
+
+Burn 50 mana and deal 25 damage
+Interrupt casting time(if a spell have casting time)
+Cooldown: 3 rounds
+___________________________________________________________________________
+
+Overcharge:
+
+Jargoth punish any spellcaster for using magic and filling an enemy with mana-nites
+causing an intense rupture. The rupture cause massive damage depending on how much
+maximum mana that is left.
+
+Cause damage equal to the missing mana + Magic rage bonus
+Cooldown 4 rounds
+___________________________________________________________________________
+Upgrade paths:
+Silencer and Mana knight

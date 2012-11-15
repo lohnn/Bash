@@ -4,20 +4,19 @@ Strength:
 Every point does:
 Increase physical damage dealt by 1
 Every tenth point does:
-Increase any on-hit effects chance with 1%
+Increase any physical on-hit effects chance with 1%
 
 Vitality:
 Every point does:
 Increase health by 7,5 points
 Every tenth point does:
-Increase physical damage resistance by 2.5%
+Increase physical damage resistance by 2%
 
 Agility:
 Every point does:
 Increase ranged physical damage by 1
-Increase round attackspeed with 0,04 points
 Every tenth points does:
-Increase physical ability dodge chance by 1%
+Increase round attackspeed with 10%
 
 Will:
 Every point does:

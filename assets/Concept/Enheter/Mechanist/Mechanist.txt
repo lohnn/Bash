@@ -8,6 +8,7 @@ Good:
 
 Bad:
 - Weak versus magical damage
+- Low health
 - Weak versus armored units
 
 Stats:
@@ -22,19 +23,51 @@ Base damage:
 10
 
 Base health:
-100
+85
 
 Base mana:
 100
 
 Teleport strike:
 
-Jakira uses her various devices to teleport behind the enemy and strike them.
-Jakira deal 2x her agility plus 4x her level in damage. Jakira can not be attacked
-or targeted by anything when she is preparing to strike next round.
-
+Jakira uses her various devices to teleport behind the enemy and strike them. The first round she will
+appear behind the target and the second round she will strike. During the first round
+she will be untouchable and cannot be targeted by anything. Debuffs and DoTs will still
+be active during both rounds if Jakira got effected by them before she teleported.
 Casting time: 2 rounds
+Jakira deal 2x her agility plus 5% of the enemies total health. 
 Cooldown: 4 rounds
 _____________________________________________________________________________________
 
+Backtrack:
 
+Jakira sometimes have time to avoid an attack completley by temporarly going into another dimension.
+Backtrack are able to avoid all physical attacks and abilities but are unable to dodge magic attacks.
+
+20% chance to avoid a physical ability and/or physical attack that are made against Jakira.
+_____________________________________________________________________________________
+
+Disruption:
+
+Jakira channels the energy from her devices and fuse them with magic. This cause it to form
+a bolt that deal damage and stun, this bolt are also unable to be deflected. Magic immunity 
+only effect the damage not the stun.
+Mana cost: 50
+Stuns for 1 rounds
+Damage equals 1.5x Jakiras intellect + 10 magic damage.
+Cooldown: 2 rounds
+_____________________________________________________________________________________
+
+Dimensional shard:
+
+Jakira tap into an unknown dimension and rip apart of time itself.
+Whenever an enemy touch the dimension shard they are temporarly trapped in a dimensional
+prison and recieve 25% more damage from magic attacks/abilities. When the shard is cast
+it hit all enemies on field.
+Mana cost: 100
+Stuns for 2 rounds.
+Deal 100 damage, the damage is split among all enemies on the field.
+Cooldown: 6 rounds
+______________________
+Upgrade paths:
+Magic and Rouge 

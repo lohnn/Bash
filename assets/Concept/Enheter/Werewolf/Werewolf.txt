@@ -2,8 +2,9 @@ Jack
 Werewolf
 
 A being that once was human now more beast than man. Roam the great forest claiming himself the king as he protect and serve as
-its guardian. Almost never sleeping he stops all that intrude on his area. Master of the arts he sinks his claws into enemies wounding them and cause even more damage until they fall
-at the mere pain of thier wounds. With a dream to once be conquered by an enemy and released of duty he still trains for that day.
+its guardian. Almost never sleeping he stops all that intrude on his area. Master of the arts he sinks his claws into enemies 
+wounding them and cause even more damage until they fall at the mere pain of thier wounds. 
+With a dream to once be conquered by an enemy and released of duty he still trains for that day. 
 So that when they come, that the enemy will have to go through hell before they win.
 
 Stats:
@@ -33,183 +34,41 @@ Bad:
 - Reliant on constant spell casting
 - Weak against stuns and damage shielding items 
 
-Wound
-On hit: increase damage per attack and lower enemy agility
-This effects gets removed if you dont attack the enemy for 2 rounds or use Power strike.
+Wound:
+
+On hit: Increase damage per attack and temporarly increase his agility
+This effects gets removed if you dont attack the enemy for 1 round or use Power strike.
 Stacks up to 8 times.
 
-Rank 1/5
-Increase damage by 3 and lower the enemies agility by 1 per normal attack
+Temporarly increase damage by 3 and agility by 1 point
+_____________________________________________________________________________________
 
-Rank 2/5
-Increase damage by 4 and lower the enemies agility by 1,5 per normal attack
+Swift strikes:
 
-Rank 3/5
-Increase damage by 5 and lower the enemies agility by 2 per normal attack
-
-Rank 4/5
-Increase damage by 6 and lower the enemies agility by 2,5 per normal attack
-
-Rank 5/5
-Increase damage by 7 and lower the enemies agility by 3 per normal attack
-______________
-Upgrade paths:
-Muscle breakdown
-Wound now also steal strength by a small amount.
-The strength stolen will be returned if you die, dont attack for 2 rounds or use power strike.
-
-Rank 1/5
-Steal 0.25 strength per normal attack and add to your own stats.
-
-Rank 2/5
-Steal 0.5 strength per normal attack and add to your own stats.
-
-Rank 3/5
-Steal 0.75 strength per normal attack and add to your own stats.
-
-Rank 4/5
-Steal 1 strength per normal attack and add to your own stats.
-
-Rank 5/5
-Steal 1.25 strength per normal attack and add to your own stats.
-
-Weakness
-Werewolf search for weakness causing him to have a chance to stack wound 2 times.
-For every strike made he his chance will increase.
-
-Rank 1/5
-8% chance to stack 2 times
-
-Rank 2/5
-9.5% chance to stack 2 times
-
-Rank 3/5
-11% chance to stack 2 times
-
-Rank 4/5
-13% chance to stack 2 times
-
-Rank 5/5
-15% chance to stack 2 times
-
-Swift strikes
 Doubles werewolfs agility and slightly increase strength.
 Mana cost: 45
 Cooldown: 4
 
-Rank 1/5
 Double agility and increase your strength by 2
-Lasts 2 rounds.
+Lasts 3 rounds.
+______________________________________________________________________________________
 
-Rank 2/5
-Double agility and increase your strength by 4
-Lasts 2 rounds.
+Counter strike:
 
-Rank 3/5
-Double agility and increase your strength by 6
-Lasts 2 rounds.
+Whenever Jack is struck by a physical attack he have a chance to become enraged and instantly 
+attack the enemy. Wound will be in effect, however counter strike does not trigger on magic attacks.
 
-Rank 4/5
-Double agility and increase your strength by 8
-Lasts 2 rounds.
+25% chance to counter attack an enemy
+______________________________________________________________________________________
 
-Rank 5/5
-Double agility and increase your strength by 10
-Lasts 2 rounds.
-______________
-Upgrade paths:
-Harder, better
-Form the fat and mucles so they reinforce Werewolfs hide.
-Reducing incoming damage for 2 rounds.
+Power strike:
 
-Rank 1/5
-Reduce all incoming damage by 9
-
-Rank 2/5
-Reduce all incoming damage by 11
-
-Rank 3/5
-Reduce all incoming damage by 14
-
-Rank 4/5
-Reduce all incoming damage by 17
-
-Rank 5/5
-Reduce all incoming damage by 21
-
-Faster, stronger
-Further increase strength recieved.
-
-Rank 1/5
-Increase strength by 10
-
-Rank 2/5
-Increase strength by 13
-
-Rank 3/5
-Increase strength by 15
-
-Rank 4/5
-Increase strength by 17
-
-Rank 5/5
-Increase strength by 20
-
-Power strike
 Deal damage depending on your agility and strength,
 However needs to build up combo hits(6 auto attacks) to be able to perform this move.
 Mana cost: 60
 Cooldown: 6
 
-Rank 1/5
-Add 100% of your total stats as bonus damage
-
-Rank 2/5
-Add 115% of your total stats as bonus damage
-
-Rank 3/5
-Add 130% of your total stats as bonus damage
-
-Rank 4/5
-Add 145% of your total stats as bonus damage
-
-Rank 5/5
-Add 165% of your total stats as bonus damage
-______________
+Add 100% of your total agility and strength stats as bonus damage
+______________________________________________________________________________________
 Upgrade paths:
-Ultra strike
-Further empower your strike. Increasing your stats to bonus damage.
-
-Rank 1/5
-Add 185% of your total stats as bonus damage
-
-Rank 2/5
-Add 200% of your total stats as bonus damage
-
-Rank 3/5
-Add 215% of your total stats as bonus damage
-
-Rank 4/5
-Add 230% of your total stats as bonus damage
-
-Rank 5/5
-Add 245% of your total stats as bonus damage
-
-Lycan
-Healed a large percent of damage dealt when you power strike.
-
-Rank 1/5
-Healed 75% of the damage dealt
-
-Rank 2/5
-Healed 90% of the damage dealt
-
-Rank 3/5
-Healed 105% of the damage dealt
-
-Rank 4/5
-Healed 120% of the damage dealt
-
-Rank 5/5
-Healed 135% of the damage dealt
-----------------------------------------------------------------------------
+Damage and Tank

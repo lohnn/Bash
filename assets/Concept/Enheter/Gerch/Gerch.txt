@@ -13,8 +13,8 @@ Stats:
 
 Strength: 20
 Vitality: 15
-Agility: 10
-Will: 5
+Agility: 15
+Will: 0
 Intellect: 0
 
 Base damage:
@@ -23,218 +23,47 @@ Base damage:
 Base health:
 100
 
-Base mana:
-100
+No mana used
 
 Good:
-+Very high damage
-+Can tank damage
-+Boss killer
-+Very strong with on-hit effects
++ Tanky
++ Can heal himself through damage
 
 Bad:
--Situational damage dealer
--Very easy to harass
--Item dependent
-
-Gerch have 3 base abilities:
+- Situational damage dealer
+- Very easy to harass
 
 Rage:
-If Gerch lose more than 14% of his total hitpoints in one blow he will be enraged, attacking
-faster and dealing more damage. This effect lasts for 1 round. This effect can stack.
-Cooldown: 1 round
 
-Rank 1/5
-Increase damage with 10% and cause you to have a 50% chance to attack 2 times in one round
+Every time Gerch lose 20% of his maximum health be becomes enraged gaining increased
+damage and increase attack speed. This effect stacks.
 
-Rank 2/5
-Increase damage with 20% and cause you to attack 2 times in one round
-
-Rank 3/5
-Increase damage with 25% and cause you to attack 2 times with a 25% chance to attack 3 times
-
-Rank 4/5
-Increase damage with 33% and cause you to attack 2 times with a 50% chance to attack 3 times
-
-Rank 5/5
-Increase damage with 40% and cause you to attack 2 times with a 75% chance to attack 3 times
-In addition have a 20% chance to attack 4 times.
-______________
-Upgrade paths:
-Temperament
-Gerch works on his rage going into rage for less damage recieved while gaining a chance to crit.
-Can only choose one upgrade path.
-
-Rank 1/5
-Increase damage bonus further to 50%
-15% chance to deal 1.35x damage
-
-Rank 2/5
-Increase damage bonus further to 60%
-15% chance to deal 1.50x damage
-
-Rank 3/5
-Increase damage bonus further to 70%
-15% chance to deal 1.65x damage
-
-Rank 4/5
-Increase damage bonus further to 80%
-15% chance to deal 1.85x damage
-
-Rank 5/5
-Increase damage bonus further to 90%
-15% chance to deal 2x damage
-
-Upgrade paths:
-Crippling blows
-Increase the chance to multi hit and also adds a chance to go into rage during the rage on a succesful attack.
-
-Rank 1/5
-Cause you to attack 3 times and have a 25% chance to attack 4 times
-But reduce bonus damage with 7.5%
-
-Rank 2/5
-Cause you to attack 3 times and have a 40% chance to attack 4 times
-2.5% chance to go into rage again when attacking
-But reduce bonus damage with 10%
-
-Rank 3/5
-Cause you to attack 3 times and have a 55% chance to attack 4 times
-5% chance to go into rage again when attacking
-But reduce bonus damage with 12.5%
-
-Rank 4/5
-Cause you to attack 3 times, a 70% chance to attack 4 times and a
-20% chance to attack 5 times
-7.5% chance to go into rage again when attacking
-But reduce bonus damage with 15%
-
-Rank 5/5
-Cause you to attack 4 times, 33% chance to attack 5 times and a 15% chance to attack 6 times
-10% chance to go into rage again when attacking
-But reduce bonus damage with 20%
+Increase damage with 10% and 33% faster round attackspeed
+_____________________________________________________________________________________________
 
 Healing blood:
-When Gerch is attacking he have a chance to be healed a percent of the damage dealt
 
-Rank 1/5
-Have a 15% chance to be healed 25% of damage dealt
+Gerch's blood thirst cause his attacks to heal him.
 
-Rank 2/5
-Have a 20% chance to be healed 25% of damage dealt
-
-Rank 3/5
-Have a 25% chance to be healed 25% of damage dealt
-
-Rank 4/5
-Have a 30% chance to be healed 25% of damage dealt
-
-Rank 5/5
-Have a 35% chance to be healed 25% of damage dealt
-______________
-Upgrade paths:
-Never die twice
-Increase the healing recieved from damage and also regenerate max hitpoints over time.
-This effect cannot stack.
-
-Rank 1/5
-35% chance to be healed 27% of damage dealt and regenerate 4% maximum hp over 2 rounds
-
-Rank 2/5
-35% chance to be healed 29% of damage dealt and regenerate 6% maximum hp over 2 rounds
-
-Rank 3/5
-35% chance to be healed 31% of damage dealt and regenerate 8% maximum hp over 2 rounds
-
-Rank 4/5
-35% chance to be healed 33% of damage dealt and regenerate 10% maximum hp over 2 rounds
-
-Rank 5/5
-35% chance to be healed 35% of damage dealt and regenerate 12% maximum hp over 2 rounds
-
-Hunger for battle
-In addition to the healing effect you will force that enemy to attack you while deflecting a percent of the damage
-recieved. This effect cannot stack.
-
-Rank 1/5
-35% chance to be healed 25.5% of damage dealt and force the enemy to attack for 1 round while deflecting 10% of all damage recieved
-
-Rank 2/5
-35% chance to be healed 26% of damage dealt and force the enemy to attack for 1 round while deflecting 15% of all damage recieved
-
-Rank 3/5
-35% chance to be healed 26.5% of damage dealt and force the enemy to attack for 1 round while deflecting 20% of all damage recieved
-
-Rank 4/5
-35% chance to be healed 27% of damage dealt and force the enemy to attack for 1 round while deflecting 25% of all damage recieved
-
-Rank 5/5
-35% chance to be healed 27.5% of damage dealt and force the enemy to attack for 1 round while deflecting 30% of all damage recieved
+Gerch is healed 25% of all damage dealt
+_____________________________________________________________________________________________
 
 Natural resistance:
+
 Gerch builds up a natural resistance causing him to gain damage resistance depending on how close to death he is.
-In addition Gerch gains a chance to be enraged by a low damage attack.
+In addition Gerch gains a chance to become enraged whenever he is struck by a physical attack.
 
-Rank 1/5
 For every 10% of his max hp lost he will reduce incoming damage with 3%
-6% chance to go into rage when struck
+10% chance to go into rage when struck
+_____________________________________________________________________________________________
 
-Rank 2/5
-For every 10% of his max hp lost he will reduce incoming damage with 3.5%
-6.5% chance to go into rage when struck
+Near death experience:
 
-Rank 3/5
-For every 10% of his max hp lost he will reduce incoming damage with 4%
-7% chance to go into rage when struck
+Gerch call for his inner rage to survive. Whenever a blow land that was supposed to kill 
+Gerch land he survives with 1 health. This effect can only trigger from one attack and will
+not save him if he is attacked again during the same round or when cooldown is in effect.
+In addition gain an insane amount of round attackspeed.
 
-Rank 4/5
-For every 10% of his max hp lost he will reduce incoming damage with 4.5%
-7.5% chance to go into rage when struck
-
-Rank 5/5
-For every 10% of his max hp lost he will reduce incoming damage with 5%
-8% chance to go into rage when struck
-______________
-Upgrade paths:
-Inner rage
-When at 10% or below maximum health you go into an unstoppable rage removing debuffs, healed a large amount of damage dealt and
-are immune to stuns for up to several rounds.
-
-Rank 1/5
-Remove 1 debuff from you, healed 50% of all damage dealt(1 round) and are immune to stuns for 1 round
-
-Rank 2/5
-Remove 2 debuffs from you, healed 66% of all damage dealt(1 round) and are immune to stuns for 1 round
-
-Rank 3/5
-Remove 2 debuffs from you, healed 75% of all damage dealt(1 round) and are immune to stuns for 2 rounds
-
-Rank 4/5
-Remove 3 debuffs from you, healed 85% of all damage dealt(1 round) and are immune to stuns for 2 rounds
-
-Rank 5/5
-Removed 3 debuffs, healed 100% of all damage dealt(1 round) and are immune to stuns for 3 rounds
-
-T.A.N.K:
-Gain the ability to instantly repair your shield and regen health when intact.
-
-Shield repair:
-Instantly repair the shield and cause you to regen maximum health per round until broken
-Mana cost: All
-Cooldown: can only be used once per match
-
-Rank 1/5
-Regen 5% of your maximum health per round
-
-Rank 2/5
-Regen 6% of your maximum health per round
-
-Rank 3/5
-Regen 7% of your maximum health per round
-
-Rank 4/5
-Regen 8% of your maximum health per round
-
-Rank 5/5
-Regen 9% of your maximum health per round
----------------------------------------------------------------------------
+Can survive killing blows leaving him with 1 health
+Gain 100% faster round attackspeed for the next round
+Cooldown 6 rounds
