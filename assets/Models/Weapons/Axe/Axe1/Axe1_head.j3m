@@ -1,0 +1,8 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Flip Blender Models/Weapons/Axes/Axe1/Head.png
+        Shininess : 100.0
+     }
+    AdditionalRenderState {
+    }
+}

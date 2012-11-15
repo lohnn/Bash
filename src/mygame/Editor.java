@@ -26,8 +26,8 @@ import com.jme3.scene.shape.Sphere;
 import custom.camera.EditorCam;
 import globals.Triggers;
 import java.util.ArrayList;
-import mobs.MobSpawner;
-import mobs.Unit;
+import units.MobSpawner;
+import units.Unit;
 
 /**
  * Main
