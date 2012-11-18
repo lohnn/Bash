@@ -14,7 +14,7 @@ import com.jme3.renderer.RenderManager;
 import com.jme3.scene.Node;
 import com.jme3.scene.Spatial;
 import custom.camera.CharControl;
-import units.MobSpawner;
+import unit.MobSpawner;
 
 /**
  * Main

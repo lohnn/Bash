@@ -1,4 +1,4 @@
-package units;
+package unit;
 
 import com.jme3.math.Vector3f;
 

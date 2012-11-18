@@ -4,6 +4,8 @@
  */
 package skills;
 
+import unit.Unit;
+
 /**
  *
  * @author lohnn
@@ -11,11 +13,14 @@ package skills;
 public class Healing extends ActiveSkill {
     @Override
     void effect() {
-	throw new UnsupportedOperationException("Not supported yet.");
+	targets.add(caster);
+	for (Unit target : targets) {
+	}
     }
 
     @Override
-    void temp() {
-	throw new UnsupportedOperationException("Not supported yet.");
+    public void setup() {
+	name = "Healing";
+//	properties.add();
     }
 }

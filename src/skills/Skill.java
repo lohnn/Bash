@@ -1,23 +1,46 @@
 package skills;
 
 import java.util.ArrayList;
-import spells.properties.Properties;
+import skills.properties.Properties;
+import unit.Unit;
 
 /**
  *
  * @author lohnn
  */
-public abstract class Skill implements Cloneable{
-    abstract void temp();
+public abstract class Skill implements Cloneable {
+    protected ArrayList<Unit> targets;
+    protected Unit caster;
+    protected ArrayList<Properties> properties = new ArrayList<>();
+    protected String name;
+
     /**
-     * Gets the caster
+     * Gets the caster of the skill
+     *
      * @return the caster
      */
-    abstract int getCaster();
+    public Unit getCaster() {
+	return caster;
+    }
+
     /**
-     * Gets the name of the spell
-     * @return the name
+     * Gets the name of the skill
      */
-    abstract String getName();
-    abstract ArrayList<Properties> getProperties();
+    public String getName() {
+	return name;
+    }
+
+    /**
+     * Gets the properties of the skill
+     *
+     * @return the properties
+     */
+    public ArrayList<Properties> getProperties() {
+	return properties;
+    }
+
+    /**
+     * Sets everything up, like name and properties
+     */
+    public abstract void setup();
 }

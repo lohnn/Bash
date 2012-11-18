@@ -1,4 +1,6 @@
-package spells.properties;
+package skills.properties;
+
+import unit.Unit;
 
 /**
  *
@@ -7,12 +9,15 @@ package spells.properties;
 public interface Properties {
     /**
      * Gets the effect of the property
+     *
      * @return the effect
      */
     int getEffect(); //TODO: add effects
+
     /**
      * Gets the reciever of the property
+     *
      * @return the recieving unit
      */
-    int getReciever();
+    Unit getReciever();
 }
