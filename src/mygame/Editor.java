@@ -97,7 +97,7 @@ public class Editor extends SimpleApplication implements ActionListener
      */
     private void initMap()
     {
-        Spatial map = assetManager.loadModel("Scenes/Map2.j3o");
+        Spatial map = assetManager.loadModel("Scenes/Fast-Travel Map_3.j3o");
         CollisionShape sceneShape = CollisionShapeFactory.createMeshShape((Node) map);
         landscape = new RigidBodyControl(sceneShape, 0);
         map.addControl(landscape);
