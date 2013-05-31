@@ -1,8 +1,8 @@
 package mygame;
 
-import com.jme3.bullet.collision.shapes.CollisionShape;
 import com.jme3.app.SimpleApplication;
 import com.jme3.bullet.BulletAppState;
+import com.jme3.bullet.collision.shapes.CollisionShape;
 import com.jme3.bullet.control.CharacterControl;
 import com.jme3.bullet.control.RigidBodyControl;
 import com.jme3.bullet.util.CollisionShapeFactory;
@@ -46,7 +46,7 @@ public class Editor extends SimpleApplication implements ActionListener
     Vector3f spawnPoint;
     Quaternion spawnRotation;
     Geometry pointer;
-    ArrayList<Unit> mobTypes = new ArrayList<Unit>();
+    ArrayList<Unit> mobTypes = new ArrayList<>();
     Spatial currentCursor;
 
     @Override
@@ -226,6 +226,7 @@ public class Editor extends SimpleApplication implements ActionListener
         inputManager.addListener(this, mappings);
     }
 
+    @Override
     public void onAction(String name, boolean isPressed, float tpf)
     {
         if(name.equals("Action") && isPressed) {
